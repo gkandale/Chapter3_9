@@ -17,7 +17,7 @@ public class Google {
         baseURL = "https://www.google.ca/";
         driver.get(baseURL + "?gfe_rd=cr&dcr=0&ei=0wGvWZe4E5L-8Ae7lpDAAQ&gws_rd=ssl");
         System.out.println(driver.getTitle());
-        if (!driver.getTitle().equals("Google")){
+        if (!driver.getTitle().equals("Google - Selenium")){
             throw new WrongPageException("Incorrect page for Google Home page");
         }
     }

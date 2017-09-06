@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df393eaf-9aec-42d9-bb20-dbe63d2269c0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pact/selenium/chapter3_9/pageobjects/Google.class" afterPath="$PROJECT_DIR$/target/classes/pact/selenium/chapter3_9/pageobjects/Google.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pact/selenium/chapter3_9/pageobjects/Google.java" afterPath="$PROJECT_DIR$/src/main/java/pact/selenium/chapter3_9/pageobjects/Google.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pact.selenium.chapter3_9.SearchGoogleTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pact.selenium.chapter3_9.SearchGoogleTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/pact.selenium.chapter3_9.SearchGoogleTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/pact.selenium.chapter3_9.SearchGoogleTest.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/pact/selenium/chapter3_9/pageobjects/Google.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+              <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -882,7 +885,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pact/selenium/chapter3_9/pageobjects/Google.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
